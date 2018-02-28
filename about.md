@@ -8,7 +8,7 @@ Welcome to my blog. If you’re here, you likely know me already, but, if not, m
 
 ### What is "City of Being?"
 
--- This section is under construction.
+*This section is under construction.*
 
 ### Why “Uncertain Pilgrim?”
 
