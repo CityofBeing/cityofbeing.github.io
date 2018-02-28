@@ -6,7 +6,11 @@ permalink: /about/
 
 Welcome to my blog. If you’re here, you likely know me already, but, if not, my name is Josh Hogan, and I live in Atlanta, GA.
 
-## Why “Uncertain Pilgrim?”
+### What is "City of Being?"
+
+-- This section is under construction.
+
+### Why “Uncertain Pilgrim?”
 
 The image of pilgrimage has long been one that has resonated with me.  Although I consider this earth to be my home, my sacred ground, I also believe that life is a journey of sorts.  I’m not even sure that it’s a journey to anything.  As in all pilgrimages, the journey is very often more important than the final destination. I’m not a stranger to this earth, but I am journeying through a life on it.
 
