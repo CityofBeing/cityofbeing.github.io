@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog. If you’re here, you likely know me already, but, if not, my name is Josh Hogan, and I live in Atlanta, GA.
+Welcome to City of Being!
 
 ### What is "City of Being?"
 
