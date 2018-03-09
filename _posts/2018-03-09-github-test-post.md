@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to the updated City of Being site!"
-date:   2018-02-28 01:10:00 -0500
+title:  "Testing GitHub"
+date:   2018-03-09 01:10:00 -0500
 categories: jekyll update
 ---
 
