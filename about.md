@@ -8,7 +8,11 @@ Welcome to City of Being!
 
 ### What is "City of Being?"
 
-*This section is under construction.*
+One of the most influential books in my life was Erich Fromm's 1976 book *To Have or To Be.*  In the book, Fromm explores the ways in which society in the later 20th century (and, I would argue, in our own time) became obsessed with a "having" orientation to life.  In simple terms, we define ourselves and our lives by the things we have (possessions, property, feelings, illnesses, etc.) rather than by who we *are*.  The final page of the book used the metaphor of the "City of Being" for his solution to the issue.  
+
+> Later Medieval Culture flourished because people followed the vision of the *City of God*. Modern society flourished because people were energised by the vision of the growth of the *Earthly City of Progress*.  In our century, however, this vision deteriorated to that of the *Tower of Babel*, which is now beginning to collapse and will ultimately bury everybody in its ruins.  If the City of God and the Earthly City were *thesis* and *antithesis*, a new *synthesis* is the only alternative to chaos: the synthesis between the spiritual core of the Late Medieval World and the development of rational thought and science since the Renaissance.  This synthesis is *The City of Being*.
+
+I do not flatter myself that I might construct this City of Being on my own. This site is my attempt to grapple with the challenge to live as an individual and a member of various communities in a way that is more and more consistent with "being" while becoming less a creature of my desire to "have" or to possess.  The site will contain both static pages related to this topic and an ongoing blog of essays and other writings that may (or may not) be directly related to the struggle of being and becoming who I am.
 
 ### Why “Uncertain Pilgrim?”
 
