@@ -4,7 +4,6 @@ title: About - City of Being
 permalink: /about/
 ---
 
-## Welcome to City of Being!
 
 ### What is "City of Being?"
 
