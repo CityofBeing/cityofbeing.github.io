@@ -24,9 +24,9 @@ github_username:  cityofbeing
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 # theme: modernist
-# remote_theme: grayscale
+remote_theme: grayscale
 plugins:
   - jekyll-feed
 
