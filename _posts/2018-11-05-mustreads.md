@@ -6,7 +6,7 @@ categories: news, social media
 ---
 I used to call these posts "Link Dumps."  These are the articles/websites I would have shared on social media if I were on there.  I'll provide the link with some commentary.
  
-* ["The American Civil War Didn't End. And Trump is a Confederate President"](https://www.theguardian.com/commentisfree/2018/nov/04/the-american-civil-war-didnt-end-and-trump-is-a-confederate-president.) by Rebecca Solnit.  I've often said the same thing (i.e., that the war didn't really end; it just went underground), but I don't think I have said it quite this well.  I love this paragraph:
+* ["The American Civil War Didn't End. And Trump is a Confederate President"](https://www.theguardian.com/commentisfree/2018/nov/04/the-american-civil-war-didnt-end-and-trump-is-a-confederate-president) by Rebecca Solnit.  I've often said the same thing (i.e., that the war didn't really end; it just went underground), but I don't think I have said it quite this well.  I love this paragraph:
 
 >As Michelle Alexander reminded us recently: “The whole of American history can be described as a struggle between those who truly embraced the revolutionary idea of freedom, equality and justice for all, and those who resisted.” She argues that we are not the resistance; we are the river that they are trying to dam; they are the resistance, the minority, the people trying to stop the flow of history.
 
