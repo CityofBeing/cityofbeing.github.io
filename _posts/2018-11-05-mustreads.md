@@ -15,4 +15,5 @@ I used to call these posts "Link Dumps."  These are the articles/websites I woul
 * [Zhuang Zi: A Funhouse Mirror for the Soul](https://aeon.co/classics/on-the-path-to-improvement-follow-the-jester-not-the-sage) I am more familiar with this work and its author as Chuang Tzu, but, however you spell it, the work truly is difficult, if not impossible, to truly unravel, and maybe that's the point.  As Thomas Merton said (as quoted in the article): "You enter upon this kind of way when you leave all ways and, in some sense, get lost."
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mountain_view_from_a_countryside_village_in_Lishui%2C_China.jpg/512px-Mountain_view_from_a_countryside_village_in_Lishui%2C_China.jpg) 
+
 By Lishuilynn [CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons
